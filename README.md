@@ -108,5 +108,4 @@ week-4-advanced-java-features/
    ```
 3. **Dive In:** Browse each `L1` folder, run the examples, and modify them to experiment with advanced Java features.
 
-```
-```
+
